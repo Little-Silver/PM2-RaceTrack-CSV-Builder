@@ -20,12 +20,13 @@ With Parameter
 
 1. Open Excel
 2. Open File (select "All Files")
-
+<br/>
 
 ![image](https://user-images.githubusercontent.com/59480521/111916312-a0011200-8a7a-11eb-992c-22eb4bf2e205.png)
 ![image](https://user-images.githubusercontent.com/59480521/111916345-bad38680-8a7a-11eb-8874-c7ddf889a0f1.png)
+<br/>
 3. Select Delimiter ";"
-
+<br/>
 
 ![image](https://user-images.githubusercontent.com/59480521/111916377-f5d5ba00-8a7a-11eb-9685-52fd97b65613.png)
 
