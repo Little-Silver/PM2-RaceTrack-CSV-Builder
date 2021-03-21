@@ -1,7 +1,8 @@
 # PM2-RaceTrack-CSV-Builder
 
 ## Compile
-```gcc -o main addSemiColon.c```
+- ```make```
+- ```gcc -o main addSemiColon.c```
 
 ## Run
 
